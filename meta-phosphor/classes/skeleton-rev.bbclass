@@ -1,2 +1,2 @@
-SRCREV ?= "bcb4f80f497511e79cd06dde6ac91b369966e561"
+SRCREV ?= "53707ddf7bda75bbaea25581cd6e0570e1e7a675"
 SKELETON_URI ?= "git://github.com/garden-liang/skeleton"
